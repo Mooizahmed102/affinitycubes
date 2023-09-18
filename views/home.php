@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
     <!-- itsulu css -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>AFFINITY </title>
 </head>
 
@@ -82,7 +83,8 @@
                     </div>
                     <!-- mobile menu button -->
                     <div class="mil-menu-btn">
-                        <span></span>
+                
+                    <span></span>
                     </div>
                     <!-- mobile menu button end -->
                 </div>
@@ -92,6 +94,28 @@
 
         <!-- banner -->
         <div class="mil-banner mil-top-space-0" id="home">
+        <div class="particle-container">
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+        </div>
             <div class="swiper-container mil-banner-slideshow">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
@@ -287,23 +311,21 @@
             <div class="mil-divider"></div>
         </div>
 
-        <section class="mil-p-120-90" id="services">
+        <!-- <section class="mil-p-120-90" id="services">
             <div class="mil-deco" style="bottom: 0; right: 35%; transform: rotate(180deg)"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-12 mil-mb-90">
                         <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Services and Solutions</span>
                         <h2 class="mil-mb-30">IT Services</h2>
-                        <!-- <p class="mil-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna.</p> -->
+                        <p class="mil-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna.</p>
                     </div>
                 </div>
                 <div class="row mil-mb-30-adapt">
                     <div class="col-xl-4">
 
                         <div class="mil-mb-60">
-                            <div class="mil-number-icon mil-circle mil-mb-30">
-                                <span>01</span>
-                            </div>
+                            
                             <h4 class="mil-mb-15">Network security</h4>
                             <p>Network security services are vital for shielding a business's network from unauthorized entry. IT services are responsible for generating and distributing access permissions to individuals who require them. Furthermore, IT services offer a plethora of other safeguards to fortify your network, which encompass</p>
                         </div>
@@ -383,7 +405,110 @@ Backup solutions act as a safeguard against data loss by creating duplicate copi
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
+        <section class="home_we_offer">
+  <div class="container">
+    <div class="primary_info text-center">
+      <h2 class="custom_size">IT Services</h2>
+      <img src="img/home_line.png" loading="lazy">
+      
+    </div>
+
+
+<div class="home_servie_slider">
+<div class="row your-class2">
+<div class="col-lg-4 text-center">
+  <div class="home_servie_slider_inner">
+    <div class="etc_main">
+    
+    <div class="mil-number-icon mil-circle mil-mb-30">
+                                <span>01</span>
+                            </div>
+    <h3>Network security</h3>
+    <p>Network security services are vital for shielding a business's network from unauthorized entry. IT services are responsible for generating and distributing access permissions to individuals who require them. Furthermore, IT services offer a plethora of other safeguards to fortify your network, which encompass</p>  
+   
+  </div>
+  </div>
+</div>
+
+<div class="col-lg-4 text-center">
+  <div class="home_servie_slider_inner">
+        <div class="etc_main">
+    
+    <div class="mil-number-icon mil-lines mil-mb-30">
+                                <span>02</span>
+                            </div>
+    <h3>Monitoring</h3>
+    <p>IT services offer proactive monitoring for network security and maintenance, tracking access to company data. They swiftly identify and address technology issues, preventing disruptions. Additionally, they ensure computers receive timely software updates and adjustments, optimizing network efficiency.</p>  
+  </div>
+  </div>
+</div>
+
+
+<div class="col-lg-4 text-center">
+  <div class="home_servie_slider_inner">
+        <div class="etc_main">
+    
+    <div class="mil-number-icon mil-lines mil-mb-30">
+                                <span>03</span>
+                            </div>
+    <h3>Email services</h3>
+    <p>Email serves as a vital communication tool for businesses and organizations, serving various purposes. It facilitates individual correspondence, disseminates company-wide announcements, and fosters customer relationships, playing a crucial role in nurturing and sustaining business connections.</p>  
+ 
+  </div>
+  </div>
+</div>
+
+
+
+<div class="col-lg-4 text-center">
+  <div class="home_servie_slider_inner">
+        <div class="etc_main">
+    
+    <div class="mil-number-icon mil-lines mil-mb-30">
+                                <span>04</span>
+                            </div>
+    <h3>Backup solutions</h3>
+    <p>Backup solutions act as a safeguard against data loss by creating duplicate copies of information on external devices or in the cloud. These backup services serve as a crucial defense mechanism for businesses, ensuring the protection of critical data in case of unexpected events like power outages or system failures.</p>  
+    
+  </div>
+  </div>
+</div>
+<div class="col-lg-4 text-center">
+  <div class="home_servie_slider_inner">
+        <div class="etc_main">
+   
+    <div class="mil-number-icon mil-lines mil-mb-30">
+                                <span>05</span>
+                            </div>
+    <h3>Digital Marketing</h3>
+    <p>Digital marketing constitutes a pivotal segment of marketing strategies, harnessing the power of the Internet and digital technologies like desktop computers, mobile devices, and various online platforms and media to effectively promote products and services.</p>  
+  
+  </div>
+  </div>
+</div>
+<div class="col-lg-4 text-center">
+  <div class="home_servie_slider_inner">
+        <div class="etc_main">
+    
+    <div class="mil-number-icon mil-lines mil-mb-30">
+                                <span>06</span>
+                            </div>
+    <h3>Social media Marketing</h3>
+    <p>Social media marketing involves leveraging social media platforms and websites to advertise products or services. While terms like e-marketing and digital marketing remain prevalent in academic circles, social media marketing is gaining prominence among both professionals and researchers as an effective means of promotion.</p>  
+   
+  </div>
+  </div>
+</div>
+
+
+
+</div>
+</div>
+
+
+  </div>
+</section>
 
 
         <!-- portfolio -->
@@ -510,7 +635,7 @@ Backup solutions act as a safeguard against data loss by creating duplicate copi
                 <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
                 <h2 class="mil-mb-90">How We <span class="mil-accent">Collaborate</span> With You</h2>
                 <div class="row">
-                    <div class="col-md-6 col-xl-3">
+                    <div class="col-md-6 col-xl-6">
 
                         <div class="mil-mb-60">
                             <div class="mil-icon-box-head mil-mb-30">
@@ -523,7 +648,7 @@ Backup solutions act as a safeguard against data loss by creating duplicate copi
                         </div>
 
                     </div>
-                    <div class="col-md-6 col-xl-3">
+                    <div class="col-md-6 col-xl-6">
 
                         <div class="mil-mb-60">
                             <div class="mil-icon-box-head mil-mb-30">
@@ -537,7 +662,8 @@ It offers insights into the evolving business processes and aids in comprehendin
                         </div>
 
                     </div>
-                    <div class="col-md-6 col-xl-3">
+                    <div class="row">
+                    <div class="col-md-6 col-xl-6">
 
                         <div class="mil-mb-60">
                             <div class="mil-icon-box-head mil-mb-30">
@@ -550,7 +676,7 @@ It offers insights into the evolving business processes and aids in comprehendin
                         </div>
 
                     </div>
-                    <div class="col-md-6 col-xl-3">
+                    <div class="col-md-6 col-xl-6">
 
                         <div class="mil-mb-60">
                             <div class="mil-icon-box-head mil-mb-30">
@@ -563,14 +689,11 @@ It offers insights into the evolving business processes and aids in comprehendin
                         </div>
 
                     </div>
+                    </div>
                 </div>
                 <div class="row align-items-center">
-                    <div class="col-md-6 col-xl-6">
-
-                        <a href="#." class="mil-link mil-mb-30"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
-
-                    </div>
-                    <div class="col-md-6 col-xl-6">
+                    
+                    <div class="col-md-12 col-xl-12">
 
                         <div class="mil-adaptive-right">
                             <a href="#." class="mil-button mil-border mil-mb-30"><span>How We Work</span></a>
@@ -1125,12 +1248,12 @@ It offers insights into the evolving business processes and aids in comprehendin
                     </ul>
                 </div> -->
             </div>
-            <div class="mil-footer-bottom">
+            <!-- <div class="mil-footer-bottom">
                 <div class="container">
                     <p class="mil-text-sm mil-light">©2023.</p>
                     <p class="mil-text-sm mil-light">All Rights Reserved.</p>
                 </div>
-            </div>
+            </div> -->
         </footer>
         <!-- footer end -->
 
@@ -1144,7 +1267,47 @@ It offers insights into the evolving business processes and aids in comprehendin
     <!-- itsulu js -->
     <script src="js/main.js"></script>
     <script src="js/forms.js"></script>
-
+    <script src="js/slick.js"></script>
+    
+<script>$('.your-class2').slick({
+    dots: false,
+    infinite: true,
+    speed: 300,
+    autoplay: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+                dots: true,
+                navigation:true
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: true,
+                arrows:true
+            }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+});</script>
 </body>
 
 </html>
