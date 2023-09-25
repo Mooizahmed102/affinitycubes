@@ -5693,3 +5693,6 @@ h2.custom_size {
     position: relative;
     z-index: 9;
   }
+  .footer-variables{
+    color: white;
+  }

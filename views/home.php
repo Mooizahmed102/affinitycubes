@@ -406,7 +406,7 @@ Backup solutions act as a safeguard against data loss by creating duplicate copi
                 </div>
             </div>
         </section> -->
-        <section class="home_we_offer">
+        <section id="services" class="home_we_offer">
   <div class="container">
     <div class="primary_info text-center">
       <h2 class="custom_size">IT Services</h2>
@@ -1214,7 +1214,12 @@ It offers insights into the evolving business processes and aids in comprehendin
 
                                     <h3 class="mil-light mil-up-font mil-mb-30">Join The <span class="mil-accent">AFFINITY </span> <br>cubes</h3>
                                     <!-- <p class="mil-light-soft">Lorem ipsum dolor sit amet, consectetuer<br> adipiscing elit, sed diam nonummy.</p> -->
-
+                                    <p class="footer-variables">Phone: <a href="tel:+1 (561) 403-3270">
+                +1 (561) 403-3270    </a></p>
+                <p class="footer-variables">
+                    Address: <span>
+                        515 N Flagler Dr West Palm Beach, FL 33401                    </span>
+                </p>
                                 </div>
                                 <div class="col-lg-5 mil-mb-30">
 
